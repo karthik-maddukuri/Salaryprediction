@@ -1,5 +1,4 @@
-# Salaryprediction
-- Predicting Salaries | Python
+# Salaryprediction Predicting Salaries | Python
 The objective of this project was to create a model that predicts the salaries for the job postings based on features like job type, degree, major, number of years of experience, type of industry using Python.
 
 - Imported and prepared the data using Pandas, explored the data using Seaborn and Matplotlib line plots, box plots, and heatmaps to look for correlations between salary and the dependent variables.
